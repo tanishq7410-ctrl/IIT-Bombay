@@ -1,0 +1,7 @@
+{
+  "name": "Techfest 2026 | IIT Bombay",
+  "description": "Asia's Largest Science and Technology Festival at IIT Bombay. Three days of technology, innovation, robotics, AI, aerospace, and engineering shaping tomorrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
